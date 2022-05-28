@@ -1,1 +1,1 @@
-# img2tex
+# img2tex - Latex OCR
